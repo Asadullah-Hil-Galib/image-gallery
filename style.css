@@ -64,3 +64,9 @@
 .image-info strong{
     font-weight: 700;
 }
+
+@media (max-width: 500px) {
+    .container{
+     width: 100%;
+    }
+}
